@@ -1,7 +1,7 @@
 # Online-Study-and-Material-Management-System
 
 
-An all-in-one platform designed for students and educators to manage study materials, share resources, and streamline academic collaboration. This system helps facilitate the organization, upload, and distribution of study-related content in an intuitive and user-friendly environment.
+An all-in-one platform designed for students and educators to manage study materials, share resources. This system helps facilitate the organization, upload, and distribution of study-related content in an intuitive and user-friendly environment.
 
 ---
 
